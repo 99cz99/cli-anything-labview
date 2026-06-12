@@ -1,0 +1,6 @@
+include LICENSE
+include LABVIEW.md
+include CLAUDE.md
+graft skills
+graft cli_anything/labview/skills
+include cli_anything/labview/README.md
